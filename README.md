@@ -2,12 +2,15 @@
 
 [開啟教學網站](https://rtxmythically.github.io/calculus-stewart-study/)
 
-依本學期課程進度安排 19 課，附繁體中文講解、原書頁面與圖表，以及 74 道課本選題。課本使用 Stewart、Clegg、Watson 的 *Calculus: Early Transcendentals, Ninth Edition, Metric Version*。
+依本學期公開教學進度安排 19 課、78 個繁體中文教學小節。每節先說明觀念與用途，再提供完整示範、短練習與常見錯誤；74 道課本選題都可連回前面已教的方法。
+
+課堂教材為 Zill / Wright 的 *Calculus: Early Transcendentals, 4/e Asia Edition*（2021，ISBN 9789867696366）。目前未取得該版本全文，本站不提供其未經核對的頁碼或題目。保留的原書閱讀器與 74 道選題來自 Stewart、Clegg、Watson 的 *Calculus: Early Transcendentals, Ninth Edition, Metric Version*，明確標示為補充教材。
 
 - 點原書圖片或「放大原書頁與圖表」會在同頁開啟閱讀視窗，可縮放至 300%。
-- 提示與答案預設隱藏，按按鈕才會顯示。
+- 示範、短練習解說、提示與答案預設隱藏，按按鈕才會顯示，重新載入會收起。
 - 閱讀位置與學習進度儲存在目前瀏覽器。
 - 選題是學習安排，不代表老師公告的指定作業或正式考試範圍。
+- 尚未取得可核實由任課老師楊詠智命題的期中、期末原卷；本站列出已查的官方來源，不把其他老師或招生試題當作本班考古題。
 
 GitHub Pages 從 `main` 分支根目錄發布；更新網站檔案並推送後會自動部署。
 

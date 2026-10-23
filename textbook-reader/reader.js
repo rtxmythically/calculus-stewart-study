@@ -51,6 +51,8 @@
   });
   document.querySelectorAll('[data-reader-open]').forEach(button => button.addEventListener('click', () => {
     const reader = button.dataset.readerOwner ? document.getElementById(button.dataset.readerOwner) : button.closest('[data-reader]');
+    const reference = reader.closest('details.reader-reference');
+    if (reference) reference.open = true;
     const section = button.dataset.readerOpen;
     const pageIndex = data[section].pages.findIndex(page => page.pdf_page === Number(button.dataset.sourcePage));
     render(reader,section,Math.max(0,pageIndex));
